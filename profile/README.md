@@ -121,6 +121,6 @@ We’re a small, focused team of builders and researchers:
 
 <p align="center">
   <!-- Replace the link below with the final GIF URL you want -->
-  <img src="https://github.com/Byte-Bonded/.github/raw/main/assets/byte-bonded-city.gif" alt="Byte Bonded futuristic city" />
+  <img src="https://github.com/Byte-Bonded/.github/blob/main/cityHaute.gif" alt="Byte Bonded futuristic city" />
 </p>
 
